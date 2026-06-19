@@ -1,2 +1,8 @@
 Hello World!
 This is a Java Placement Classroom.
+
+cd /d D:\JAVA-PLACEMENTS-2026
+git status
+git add .
+git commit -m "Updated code"
+git push
